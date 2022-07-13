@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning all about code
 - 🌱 I’m currently learning full stack developement
 - 💞️ I’m looking to collaborate on any tech company
-- 📫 How to reach me ...
 
 <!---
 pabloa7/pabloa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
